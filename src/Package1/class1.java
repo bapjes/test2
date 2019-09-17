@@ -17,7 +17,7 @@ public class class1 {
        if (5>4)
        {
     	 //just for debug  for console
-    	   log.info("object is present");
+    	   log.info("object ispresent");
        }
        log.error("Object is not present");
        
