@@ -1,0 +1,4 @@
+10:57:44.186 [main] ERROR Package1.class1 - Object is not present
+10:57:44.189 [main] FATAL Package1.class1 - this is fatal
+16:18:39.881 [main] ERROR Package1.class1 - Object is not present
+16:18:39.884 [main] FATAL Package1.class1 - this is fatal
