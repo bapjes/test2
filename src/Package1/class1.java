@@ -19,9 +19,9 @@ public class class1 {
     	 //just for debug  for console
     	   log.info("object ispresent");
        }
-       log.error("Object is not present");
+       log.error("Object is not present for now");
        
-       log.fatal("this is fatal");
+       log.fatal("this is fatal error");
 		
 	}
 
